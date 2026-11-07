@@ -391,7 +391,7 @@
     "@types/supertest": "^7.2.1",
     "@types/ws": "^8.18.2",
     "cross-env": "10.1.0",
-    "electron": "^45.2.1",
+    "electron": "^45.2.2",
     "electron-builder": "^26.18.0",
     "husky": "9.1.7",
     "js-yaml": "^5.5.0",
@@ -399,7 +399,7 @@
     "markdownlint-cli2": "^0.24.0",
     "node-abi": "^4.40.0",
     "oxfmt": "0.76.0",
-    "oxlint": "1.90.0",
+    "oxlint": "1.91.0",
     "supertest": "^7.3.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
